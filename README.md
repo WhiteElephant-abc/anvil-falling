@@ -2,7 +2,7 @@
 
 警告：此数据包可能带来较大的性能开销，请不要在性能过低的电脑上游玩
 
-如果遇到任何问题，请点击 [这里](https://github.com/WhiteElephant-abc/anvil-falling/issues/new) 反馈
+如果遇到任何问题，请点击 [这里](https://github.com/WhiteElephant-abc/anvil-falling/issues/new/choose) 反馈
 
 如果无法访问，请点击 [这里](https://steampp.net/) 下载加速器
 
